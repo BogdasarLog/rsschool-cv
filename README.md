@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BogdasarLog.github.io/rsschool-cv/cv
