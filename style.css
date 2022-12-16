@@ -1,12 +1,8 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-image: linear-gradient(to bottom right, #d8d041, #8f8f8f);
+  background-image: radial-gradient(rgb(72 75 77) 25%, #e8e8e8 74%);
   font-family: system-ui;
-}
-
-.clearFix {
-  clip: both;
 }
 
 .main{
@@ -17,7 +13,7 @@ body {
   margin: 20px auto;
 }
 
-.top-section {
+.top-header {
   background-color: #4f4f4f;
   text-align: center;
   padding: 20px;
@@ -49,20 +45,18 @@ body {
   margin-top: 10px;
 }
 
-.col-div-4{
+.main-left{
   width: 35%;
   float:left
 }
 
-.col-div-8{
+.main-right{
   width: 60%;
   float: left;
 }
 
 .line {
-  border-left: 1px solid #c7c7c7;
   height: 800px;
-  width: 2%;
   margin-top: 30px;
   float: left;
 }
@@ -98,8 +92,12 @@ body {
 .skills li span{
   color: #949494
 }
+
 .p-4{
   font-size: 14px;
   color: #949494;
+}
+
+.footer{
 
 }
